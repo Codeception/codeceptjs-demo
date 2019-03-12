@@ -2,7 +2,7 @@
 
 Sample [CodeceptJS](https://github.com/codeception/codeceptjs) tests with WebDriverIO.
 
-Install with [Webdriverio](https://webdriver.io)
+Install
 
 ```
 npm install codeceptjs webdriverio --save
