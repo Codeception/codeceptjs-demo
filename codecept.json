@@ -5,7 +5,7 @@
   "helpers": {
     "WebDriverIO": {
       "url": "http://simple-form-bootstrap.plataformatec.com.br/",
-      "browser": "firefox"
+      "browser": "chrome"
     }
   },
   "include": {},
